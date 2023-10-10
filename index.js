@@ -75,6 +75,12 @@ function init() {
 ## Decsption \n- ${answers.description}
 ## Installation \n- ${answers.installation}
 ## Usage \n- ${answers.usage}
+## Screenshots \n- ![Image 10-9-23 at 7 21 PM](https://github.com/emilygknight/readme-generator/assets/138501781/a36ccc08-b706-4a35-bb1d-4c5bcc8d4796)
+- ![Image 10-9-23 at 7 22 PM](https://github.com/emilygknight/readme-generator/assets/138501781/a3d6dc06-cd2b-4d25-ac40-833744b2fb58)
+- ![Image 10-9-23 at 7 22 PM](https://github.com/emilygknight/readme-generator/assets/138501781/30ecc670-168a-4569-93d6-da6d7e7b1fc1)
+- ![Image 10-9-23 at 7 23 PM](https://github.com/emilygknight/readme-generator/assets/138501781/78aac97e-4e67-4322-9be1-6214174a22aa)
+- ![Image 10-9-23 at 9 00 PM](https://github.com/emilygknight/readme-generator/assets/138501781/28223fc7-f4c3-4221-92ca-01520f705015)
+- ![Image 10-9-23 at 9 00 PM (1)](https://github.com/emilygknight/readme-generator/assets/138501781/d35f5ed1-11fa-4835-aa85-efafc0787016)
 ## Contributions \n- ${answers.contributions}
 ## Tests \n- ${answers.tests}
 \n${generateLicense.renderLicenseSection(answers.license)}\n
