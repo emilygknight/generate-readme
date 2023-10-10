@@ -1,5 +1,5 @@
-# ReadMe Generator - this README is for application use, not the one you will create
-
+# ReadMe Generator 
+- this readme is for demonstration and application use
 ## Table of Contents
 
 - [Description](#description)
