@@ -16,9 +16,7 @@
 
 ## Installation
 
-- Clone the reposity into your local code.
-- Activate the node modules you'll need by entering 'npm init'
-- You can then run node index.js and go through the questions to create your REAME.md file
+- Clone the reposity into your local code, Activate the node modules you'll need by entering 'npm init', You can then run node index.js and go through the questions to create your REAME.md file
 
 ## Usage
 
@@ -35,11 +33,7 @@
 
 ## Contributing
 
-- Starter Code: https://github.com/coding-boot-camp/potential-enigma
-- My tutor , Juan Delgado, helped me get started
-- Node.js 
-- npm
-- XPERT Learning Assistant in Canva
+- Starter Code: https://github.com/coding-boot-camp/potential-enigma,My tutor , Juan Delgado, helped me get started, Node.js, npm, XPERT Learning Assistant in Canva
 
 ## License
 
