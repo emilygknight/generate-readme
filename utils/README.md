@@ -39,6 +39,7 @@
 - My tutor , Juan Delgado, helped me get started
 - Node.js 
 - npm
+- XPERT Learning Assistant in Canva
 
 ## License
 
